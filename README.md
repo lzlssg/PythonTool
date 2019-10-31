@@ -5,8 +5,9 @@
 
 python：使用Python 3
 
-代码工具[pycharm](https://www.jetbrains.com/pycharm/)
+代码工具：[pycharm](https://www.jetbrains.com/pycharm/)
 
 ---
 ##excel
+
 通过使用**openpyxl**对excel进行批量操作，目前操作不支持图片
