@@ -37,7 +37,7 @@ for row in row_range:
 print ("*"*50)
 for row in ws1.iter_rows(min_row=1, min_col=1, max_col=3, max_row=3):
     for cell in row:
-		#print (cell.value)
+		print (cell.value)
 
 #获取所有行
 print (ws1.rows)
